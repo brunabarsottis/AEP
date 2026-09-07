@@ -1,2 +1,2 @@
 # AEP
-Bruna, Eduardo, Gabriel Yuta
+Integrantes: Bruna, Eduardo, Gabriel Yuta
