@@ -1,2 +1,2 @@
 # AEP
-Bruna, Eduardo, Gabriel
+Bruna, Eduardo, Gabriel Yuta
