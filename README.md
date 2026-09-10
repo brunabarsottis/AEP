@@ -1,2 +1,5 @@
 # AEP
-Integrantes: Bruna, Eduardo, Gabriel Yuta
+Integrantes: 
+Bruna Barsotti
+Eduardo Pagnan
+Gabriel Yuta
